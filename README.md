@@ -10,7 +10,7 @@ I'm **Dima**, (or **Dimshik** if you want to use the nickname) and I'm a Front E
 
 ## ⚡️ About Me
 
-* 🧑‍🎤 &nbsp;&nbsp; Pronoums: **He/Him**
+* 🧑‍🎤 &nbsp;&nbsp; Pronouns: **He/Him**
 * 👾 &nbsp;&nbsp; Passionate about **UX** and why developers should understand it *(ask me about it)*
 * 💚 &nbsp;&nbsp; Love **Vue.js**
 * 👯 &nbsp;&nbsp; I’m looking to collaborate on some Open-source [**Scroll Percentage in Tab Title Chrome Extension**](https://github.com/dimshik100/Scroll-Percentage-in-Tab-Title-Chrome-Extension)
