@@ -31,3 +31,10 @@ I'm **Dima**, (or **Dimshik** if you want to use the nickname) and I'm a Front E
 <p align='center'>
   <img src="https://dimshik100-visitor-badge.glitch.me/badge?page_id=dimshik100.visitor-badge">
 </p>
+
+<a href="https://github-readme-stats.vercel.app/api?username=dimshik100&show_icons=true&count_private=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dimshik100&show_icons=true&count_private=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dimshik100&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimshik100&layout=compact" />
+</a>
