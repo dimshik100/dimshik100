@@ -29,5 +29,5 @@ I'm **Dima**, (or **Dimshik** if you want to use the nickname) and I'm a Front E
 * connect with me on [**Linkedin**](https://www.linkedin.com/in/dimshik100/) *(being an adult)*
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=dimshik100.visitor-badge">
+  <img src="https://dimshik100-visitor-badge.glitch.me/badge?page_id=dimshik100.visitor-badge">
 </p>
