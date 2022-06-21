@@ -28,6 +28,9 @@ I'm **Dima**, (or **Dimshik** if you want to use the nickname) and I'm a Front E
 * @ me on [**Twitter**](https://twitter.com/dimshik100) *(usually about tech and randomness)*
 * connect with me on [**Linkedin**](https://www.linkedin.com/in/dimshik100/) *(being an adult)*
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dimshik100&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p align='center'>
   <img src="https://dimshik100-visitor-badge.glitch.me/badge?page_id=dimshik100.visitor-badge">
 </p>
